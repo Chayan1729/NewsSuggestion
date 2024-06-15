@@ -1,0 +1,9 @@
+streamlit
+streamlit_open_menu
+requests
+beautifulsoup4
+lxml
+pandas
+textblob
+matplotlib
+wordcloud
