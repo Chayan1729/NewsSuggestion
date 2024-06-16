@@ -1,7 +1,7 @@
 streamlit
-streamlit_open_menu
+streamlit_option_menu
 requests
-beautifulsoup4
+bs4
 lxml
 pandas
 textblob
